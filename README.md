@@ -1,4 +1,4 @@
-# gen_synth_nano
+# gen-synth-nano
 
 Repository to support automated nanoparticle analysis.
 

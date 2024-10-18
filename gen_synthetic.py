@@ -1,3 +1,5 @@
+# Copyright © 2024 by Northwestern University. All Rights Reserved
+
 import os
 import numpy as np
 import random
